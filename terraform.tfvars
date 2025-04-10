@@ -4,5 +4,9 @@ users = [
     email = "newuser1@example.com"
   },
 
-  #centinela
+  
+        {
+        email = "user@example.com",
+        }
+#centinela
 ]
