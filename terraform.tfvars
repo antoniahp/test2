@@ -76,5 +76,9 @@ users = [
         {
         email = "user@example.com",
         }
+
+        {
+        email = "user@example.com",
+        }
 #centinela
 ]
